@@ -1,4 +1,4 @@
-# Host-Behavioural-Analysis
+# Host Behavioural Analysis
 
 ## Objective of the Analysis
 1.
