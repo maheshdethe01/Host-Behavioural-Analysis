@@ -1,5 +1,6 @@
 # Host Behavioural Analysis
 
+## Tech Stack - SQL , Excel
 ## Objective of the Analysis
 1. To analyse the behaviour of hosts in Toronto and Vancouver.
 2. To find critical features for being a super host.
