@@ -1,9 +1,8 @@
 # Host Behavioural Analysis
 
 ## Objective of the Analysis
-1.
-2.
-3.
+1. To analyse the behaviour of hosts in Toronto and Vancouver.
+2. To find critical features for being a super host.
 
 ## About the data
 1.
