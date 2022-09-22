@@ -15,13 +15,13 @@
 2. To find critical features for being a super host.
 
 ## About the data (Schema) :
-1. 
-2.
-3.
-4.
-5.
-6.
-7.
+![image](https://user-images.githubusercontent.com/106676849/191820744-6e67bf33-0827-43b0-b52d-a7dee3c3154a.png)
+
+1. Hosts 
+2. Listings
+3. Reviews 
+4. Availability
+
 
 ## Important Variables
 1.
@@ -30,11 +30,12 @@
 4.
 
 ## Analysis.
-1.
-2.
-3.
-4.
-5.
+1. ANALYSIS OF ACCEPTANCE & RESPONSE RATE
+2. ANALYSIS OF MONTHLY BOOKINGS
+3. ANALYSIS OF RATINGS
+4. ANALYSIS OF LOCAL AND FOREIGN HOSTS
+5. ANALYSIS OF TORONTO AND VANCOUVER LISTINGS SALES
+
 
 ## Functionality of Dashboard 
 1. 
@@ -44,7 +45,7 @@
 5.
 
 ## Insights
-
+# Comparison between Cities.
 The Response rate of Toronto’s Super host is greater than the response rate of Vancouver’s Super host.
  
 The Acceptance rate of Toronto’s Super host is smaller than the response rate of Vancouver’s Super host.
@@ -63,13 +64,12 @@ The no of hosts is in Toronto city as compared to Vancouver.
 
 The percentage of  Vancouver's super host is more than Toronto's super host.
 
-
-## Recommedations
-1. 
-2.
-3.
+## Top three critical metrics to being a superhost.
+1. Acceptance Rate
+2. Response Rate
+3. Ratings
 
 ## Challenges & Learnings.
-1.
+1. 
 2.
 3.
