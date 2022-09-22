@@ -30,11 +30,14 @@
 4.
 
 ## Analysis.
-1. ANALYSIS OF ACCEPTANCE & RESPONSE RATE
+
 ![image](https://user-images.githubusercontent.com/106676849/191822100-efc7aa29-4394-458c-a21e-b718a65848b4.png)
-   
-2. ANALYSIS OF MONTHLY BOOKINGS
+
+1. ANALYSIS OF ACCEPTANCE & RESPONSE RATE  
+
 ![image](https://user-images.githubusercontent.com/106676849/191822126-88e26fa3-ba72-4205-9ea8-2546c0b8eb49.png)
+
+2. ANALYSIS OF MONTHLY BOOKINGS
 
 3. ANALYSIS OF RATINGS
    
