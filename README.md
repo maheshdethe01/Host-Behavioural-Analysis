@@ -24,10 +24,10 @@
 
 
 ## Important Variables
-1.
-2.
-3.
-4.
+1. Host Acceptance Rate
+2. Host Response Rate
+3. Host Ratings
+4. Host neighbourhood
 
 ## Analysis.
 
