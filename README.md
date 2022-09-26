@@ -39,12 +39,14 @@
 
 2. ANALYSIS OF MONTHLY BOOKINGS
 
+![image](https://user-images.githubusercontent.com/106676849/192198633-8399bf25-54f6-4cb9-8ca1-a56d313c2a5a.png)
+
 3. ANALYSIS OF RATINGS
-   
+
+![image](https://user-images.githubusercontent.com/106676849/192198688-3b4aa2c3-c1c4-4baf-a31c-c41716ecf5d2.png)
+
 4. ANALYSIS OF LOCAL AND FOREIGN HOSTS
-
-5. ANALYSIS OF TORONTO AND VANCOUVER LISTINGS SALES
-
+![image](https://user-images.githubusercontent.com/106676849/192198763-6a819b4b-c8c3-48e4-a615-f0a0af0565f1.png)
 
 ## Functionality of Dashboard 
 1. 
@@ -55,6 +57,7 @@
 
 ## Insights
 # Comparison between Cities.
+
 The Response rate of Toronto’s Super host is greater than the response rate of Vancouver’s Super host.
  
 The Acceptance rate of Toronto’s Super host is smaller than the response rate of Vancouver’s Super host.
@@ -78,7 +81,3 @@ The percentage of  Vancouver's super host is more than Toronto's super host.
 2. Response Rate
 3. Ratings
 
-## Challenges & Learnings.
-1. 
-2.
-3.
