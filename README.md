@@ -70,7 +70,7 @@ The no of hosts is in Toronto city as compared to Vancouver.
 
 The percentage of  Vancouver's super host is more than Toronto's super host.
 
-## Top three critical metrics to being a superhost.
+## Top three critical/important  metrics to being a superhost.
 1. Acceptance Rate
 2. Response Rate
 3. Ratings
