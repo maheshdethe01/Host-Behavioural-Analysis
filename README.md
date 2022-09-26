@@ -48,12 +48,6 @@
 4. ANALYSIS OF LOCAL AND FOREIGN HOSTS
 ![image](https://user-images.githubusercontent.com/106676849/192198763-6a819b4b-c8c3-48e4-a615-f0a0af0565f1.png)
 
-## Functionality of Dashboard 
-1. 
-2.
-3.
-4.
-5.
 
 ## Insights
 # Comparison between Cities.
