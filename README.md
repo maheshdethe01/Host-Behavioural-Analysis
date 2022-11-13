@@ -4,15 +4,22 @@
   
 </div>
 <div align = "center" >
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzN2ckUmi2GMfVhk6FPjwbdlMNOwbrx_niAQ&usqp=CAU" width="400" height = "100" />
+<img src="https://github.com/maheshdethe01/Host-Behavioural-Analysis/blob/main/image%20(21).png" width="400" height = "100" />
 
 
 ## Tech Stack - SQL , Excel
 </div>
 
 ## Objective of the Analysis :
-1. To analyse the behaviour of hosts in Toronto and Vancouver.
-2. To find critical features for being a super host.
+
+Analyze different metrics to draw the distinction between Super Host and Other Hosts.
+     
+Identify top 3 crucial metrics one needs to maintain to become a SuperHost.
+
+Analyze how does the comments of reviewers vary for listings of Super Hosts vs Other Hosts.
+
+Analyze do Super Hosts tend to have large property types as compared to Other Hosts
+
 
 ## About the data (Schema) :
 ![image](https://user-images.githubusercontent.com/106676849/191820744-6e67bf33-0827-43b0-b52d-a7dee3c3154a.png)
@@ -31,22 +38,13 @@
 
 ## Analysis.
 
-![image](https://user-images.githubusercontent.com/106676849/191822100-efc7aa29-4394-458c-a21e-b718a65848b4.png)
-
 1. ANALYSIS OF ACCEPTANCE & RESPONSE RATE  
-
-![image](https://user-images.githubusercontent.com/106676849/191822126-88e26fa3-ba72-4205-9ea8-2546c0b8eb49.png)
 
 2. ANALYSIS OF MONTHLY BOOKINGS
 
-![image](https://user-images.githubusercontent.com/106676849/192198633-8399bf25-54f6-4cb9-8ca1-a56d313c2a5a.png)
-
 3. ANALYSIS OF RATINGS
 
-![image](https://user-images.githubusercontent.com/106676849/192198688-3b4aa2c3-c1c4-4baf-a31c-c41716ecf5d2.png)
-
 4. ANALYSIS OF LOCAL AND FOREIGN HOSTS
-![image](https://user-images.githubusercontent.com/106676849/192198763-6a819b4b-c8c3-48e4-a615-f0a0af0565f1.png)
 
 
 ## Insights
